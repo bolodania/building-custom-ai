@@ -1,0 +1,9 @@
+# Don't push the .env file 
+.env
+*.log
+*.mtar
+
+# IDEs
+.vscode
+.reuse
+.DS_Store
