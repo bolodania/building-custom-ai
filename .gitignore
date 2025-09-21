@@ -2,6 +2,8 @@
 .env
 *.log
 *.mtar
+env_cloud_ignored.json
+env_config_ignored.json
 
 # IDEs
 .vscode
