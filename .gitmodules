@@ -1,6 +1,3 @@
 [submodule "product_search_rag_python-srv"]
 	path = product_search_rag_python-srv
 	url = https://github.com/bolodania/product_search_rag_python-srv.git
-[submodule "sap-ai-adoption-lab_product_search_rag"]
-	path = sap-ai-adoption-lab_product_search_rag
-	url = https://github.com/bolodania/sap-ai-adoption-lab_product_search_rag.git
