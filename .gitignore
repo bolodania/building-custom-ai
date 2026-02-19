@@ -9,3 +9,7 @@ env_config_ignored.json
 .vscode
 .reuse
 .DS_Store
+
+# legacy
+2-rag_with_hana_knowledge_graph.ipynb
+3-hybrid_rag.ipynb
