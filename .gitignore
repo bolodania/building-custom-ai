@@ -13,3 +13,5 @@ env_config_ignored.json
 # legacy
 2-rag_with_hana_knowledge_graph.ipynb
 3-hybrid_rag.ipynb
+data/LFA1.csv
+data/LFA1.csv
