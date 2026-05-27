@@ -10,6 +10,8 @@ env_config_ignored.json
 .reuse
 .DS_Store
 
+files
+
 # legacy
 2-rag_with_hana_knowledge_graph.ipynb
 3-hybrid_rag.ipynb
